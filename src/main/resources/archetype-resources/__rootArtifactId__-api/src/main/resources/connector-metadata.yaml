@@ -1,0 +1,4 @@
+version: "1.0"
+name: "${connector-name}"
+description: "${connector-description}"
+springConfigurationClass: "${package}.${connector-java-class-name}Configuration"
